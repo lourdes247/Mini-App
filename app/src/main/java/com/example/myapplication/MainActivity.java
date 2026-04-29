@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
                 String input = etN.getText().toString().trim();
 
                 if (input.isEmpty()) {
-                    etN.setError("no lo dejes vacío");
+                    etN.setError("no lo dejes vacío >:v");
                     return;
                 }
 
